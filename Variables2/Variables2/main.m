@@ -20,6 +20,7 @@ int main(int argc, const char * argv[]) {
 //        NSLog(@"Value: %i", a == 54);
 //        NSLog(@"Value: %i", 6 < 7);
         
+        int i = 0;
         BOOL today = NO;
         BOOL tomorrow = YES;
         BOOL isItHotTodayOrTomorrow = today && tomorrow;
