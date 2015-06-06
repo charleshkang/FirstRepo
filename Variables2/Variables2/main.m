@@ -11,14 +11,6 @@
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
         // insert code here...
-//        NSLog(@"Hello, World!");
-        
-//        int a = 55;
-//        float b = 42.0;
-//        NSString *y = @"yyyyyy";
-//        NSString *z = @"zzzzzz";
-//        NSLog(@"Value: %i", a == 54);
-//        NSLog(@"Value: %i", 6 < 7);
         
         int i = 0;
         BOOL today = NO;
