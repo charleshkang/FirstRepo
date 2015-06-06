@@ -26,6 +26,9 @@ int main(int argc, const char * argv[]) {
         BOOL isItHotTodayOrTomorrow = today && tomorrow;
         
         NSLog(@"%d", 10 > 20 && 6 < 4);
+        
+        
+        NSLog(@"this is a thing");
     }
     
     return 0;
